@@ -15,7 +15,7 @@ body {
 
 .map-image {
     display: block; /* Removes any extra space below the image */
-    max-width: 100%;
+   /* max-width: 100%; */
 }
 
 /* This is the style for the clickable person pictures on the map */
