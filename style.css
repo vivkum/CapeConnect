@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* This container is crucial for positioning the pins */
+#map-container {
+    position: relative; /* This allows pins to be placed on top */
+    border: 2px solid #333;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.map-image {
+    display: block; /* Removes any extra space below the image */
+    max-width: 100%;
+}
+
+/* This is the style for the clickable person pictures on the map */
+.person-pin {
+    position: absolute; /* This is how we place it using x,y */
+    width: 30px;
+    height: 30px;
+    border-radius: 50%; /* Makes it a circle */
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.person-pin:hover {
+    transform: scale(1.2);
+    border-color: #00aaff;
+}
+
+/* Styles for the pop-up "flash" box */
+#info-box {
+    position: fixed; /* Stays on screen even if you scroll */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    padding: 20px;
+    z-index: 100;
+    text-align: center;
+}
+
+/* A helper class to hide/show the box */
+#info-box.hidden {
+    display: none;
+}
+
+#info-box img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #eee;
+}
+
+#info-box h3 {
+    margin: 10px 0 5px 0;
+}
+
+#info-box p {
+    margin: 0;
+    color: #555;
+}
+
+/* Style for the 'X' close button */
+#close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #aaa;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+#close-btn:hover {
+    color: #333;
+}
