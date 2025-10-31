@@ -5,27 +5,27 @@
     <name>Vivek Kumar</name>
     <info>Resident, CB1-1605</info>
     <image>images/vivek.jpg</image>
-    <mapCoords x="837" y="226" /> 
+    <mapCoords x="72" y="16" /> 
   </person>
 
   <person>
     <name>Amit Rajput</name>
     <info>Resident, CS10-0102</info>
     <image>images/amit.jpg</image>
-    <mapCoords x="727" y="1085" /> </person>
+    <mapCoords x="63" y="80" /> </person>
 
   <person>
     <name>Shashi Jyoti</name>
     <info>Resident, CC2 - Apt 201</info>
     <image>images/shashi.jpg</image>
-    <mapCoords x="592" y="1227" />
+    <mapCoords x="51" y="90" />
   </person>
 
   <person>
     <name>Lokesh Kumar</name>
     <info>Resident, CMC2</info>
     <image>images/Lokesh.jpg</image>
-    <mapCoords x="832" y="637" />
+    <mapCoords x="72" y="47" />
   </person>
 
 
@@ -33,14 +33,14 @@
     <name>Neeraj Sharma</name>
     <info>Resident, CV2 and CS4</info>
     <image>images/Neeraj.jpg</image>
-    <mapCoords x="855" y="411" />
+    <mapCoords x="74" y="30" />
   </person>
 
   <person>
     <name>Neeraj Sharma</name>
     <info>Resident, CV2 and CS4</info>
     <image>images/Neeraj.jpg</image>
-    <mapCoords x="984" y="717" />
+    <mapCoords x="85" y="52" />
   </person>
 
 
@@ -48,7 +48,7 @@
     <name>Rajiv Ranjan</name>
     <info>Resident, CG5 and CB2</info>
     <image>images/Rajiv.jpg</image>
-    <mapCoords x="865" y="856" />
+    <mapCoords x="75" y="63" />
   </person>
 
 
@@ -56,7 +56,7 @@
     <name>Satish Rai</name>
     <info>Resident, CS5</info>
     <image>images/Satish.jpg</image>
-    <mapCoords x="223" y="1120" />
+    <mapCoords x="19" y="82" />
   </person>
 
 
@@ -64,14 +64,14 @@
     <name>Shailendra Singh</name>
     <info>Resident, CG3</info>
     <image>images/Shailendra.jpg</image>
-    <mapCoords x="761" y="564" />
+    <mapCoords x="66" y="41" />
   </person>
 
   <person>
     <name>Sonam Gupta</name>
     <info>Resident, CB2</info>
     <image>images/Sonam.jpg</image>
-    <mapCoords x="718" y="203" />
+    <mapCoords x="62" y="14" />
   </person>
 
 
@@ -79,7 +79,7 @@
     <name>Sukanta Bhattacharya</name>
     <info>Resident, CS3</info>
     <image>images/Sukanta.jpg</image>
-    <mapCoords x="946" y="72" />
+    <mapCoords x="82" y="5" />
   </person>
 
 

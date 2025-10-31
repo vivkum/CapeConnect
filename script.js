@@ -37,8 +37,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 pin.src = image; // Use the person's picture as the pin
                 
                 // Position the pin on the map
-                pin.style.left = x + "px";
-                pin.style.top = y + "px";
+                //pin.style.left = x + "px";
+                //pin.style.top = y + "px";
+
+                pin.style.left = x + "%";
+                pin.style.top = y + "%";
 
                 // --- Step 3: Add the "click" functionality ---
                 pin.addEventListener("click", (event) => {

@@ -17,3 +17,8 @@ Navigate to your MySocietyMap folder (e.g., cd C:\Users\Vivek\MySocietyMap).
 Run this simple command: python -m http.server
 Your terminal will say Serving HTTP on 0.0.0.0 port 8000...
 Now, go to your web browser and manually type in this address: http://localhost:8000 or http://localhost:8000/index.html
+
+
+
+MAP2 
+1149 * 1354
