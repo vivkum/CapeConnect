@@ -3,27 +3,49 @@
 
   <person>
     <name>Vivek Kumar</name>
-    <info>Resident, CB1-1605</info>
+    <info>Resident, CB1.
+      B.Tech (Computer Science) Over 20 years of experience across Railways, 
+      Power Electronics, Automotive, Telecom, and IoT industries, 
+      with expertise in Electronics, Embedded Systems, 
+      and over a decade in Tech Support and Sales.
+
+    </info>
     <image>images/vivek.jpg</image>
     <mapCoords x="72" y="16" /> 
   </person>
 
   <person>
     <name>Amit Rajput</name>
-    <info>Resident, CS10-0102</info>
+    <info>Resident, CS10.
+     B.Sc., Masters in Computer Expert 
+     in advanced system architecture, 
+     specializing in society digitization and security, 
+     designing solutions for safer, smarter, and resident-centric communities.
+
+    </info>
     <image>images/amit.jpg</image>
     <mapCoords x="63" y="80" /> </person>
 
   <person>
     <name>Shashi Jyoti</name>
-    <info>Resident, CC2 - Apt 201</info>
+    <info>Resident, CC2. 
+      B.E. (Electrical), NIT, Jamshedpur (1987), 
+      38 years of experience with the Indian Air Force
+       and BEL (Maharatna DPSU), specializing in security deployment, 
+       tendering, price negotiation, and contract formulation.
+    </info>
     <image>images/shashi.jpg</image>
     <mapCoords x="51" y="90" />
   </person>
 
   <person>
     <name>Lokesh Kumar</name>
-    <info>Resident, CMC2</info>
+    <info>Resident, CMC2
+      A seasoned technology leader with 25 years of experience
+       in infrastructure modernization and digital transformation, 
+       dedicated to fostering a smarter, transparent, and future-ready community.
+
+    </info>
     <image>images/Lokesh.jpg</image>
     <mapCoords x="72" y="47" />
   </person>
@@ -31,14 +53,37 @@
 
   <person>
     <name>Neeraj Sharma</name>
-    <info>Resident, CV2 and CS4</info>
+    <info>Resident, CV2 and CS4.
+     A seasoned journalist with over two decades
+      of experience in media and communication. 
+      Known for his strong and influential voice 
+      on community welfare and social issues, 
+      he has been a driving force for positive change. 
+      As the Authorised Representative of Capetown Society, 
+      he is leading efforts for the legal registry of flats 
+      and consistently advocating for residents' rights with integrity, 
+      transparency,courage, and commitment.
+
+    </info>
     <image>images/Neeraj.jpg</image>
     <mapCoords x="74" y="30" />
   </person>
 
   <person>
     <name>Neeraj Sharma</name>
-    <info>Resident, CV2 and CS4</info>
+    <info>Resident, CV2 and CS4.
+     A seasoned journalist with over two decades
+      of experience in media and communication. 
+      Known for his strong and influential voice 
+      on community welfare and social issues, 
+      he has been a driving force for positive change. 
+      As the Authorised Representative of Capetown Society, 
+      he is leading efforts for the legal registry of flats 
+      and consistently advocating for residents' rights with integrity, 
+      transparency,courage, and commitment.
+
+
+    </info>
     <image>images/Neeraj.jpg</image>
     <mapCoords x="85" y="52" />
   </person>
@@ -46,7 +91,12 @@
 
   <person>
     <name>Rajiv Ranjan</name>
-    <info>Resident, CG5 and CB2</info>
+    <info>Resident, CG5 and CB2.   
+      B.Sc. MBA (IT) A seasoned IT and security surveillance professional
+      with over 20 years of experience in project delivery, strategic account management 
+      and providing end-to-end solutions for government and enterprise clients. 
+      Advocating integrity, transparency, and NRO voting rights. 
+      Committed to fighting corruption and bringing positive change to Capetown Society.</info>
     <image>images/Rajiv.jpg</image>
     <mapCoords x="75" y="63" />
   </person>
@@ -54,7 +104,12 @@
 
   <person>
     <name>Satish Rai</name>
-    <info>Resident, CS5</info>
+    <info>Resident, CS5.
+      B.Sc., FCA Chartered Accountant 
+      specializing in society compliance and auditing, 
+      with over 40 years of professional experience.
+
+    </info>
     <image>images/Satish.jpg</image>
     <mapCoords x="19" y="82" />
   </person>
@@ -62,14 +117,27 @@
 
   <person>
     <name>Shailendra Singh</name>
-    <info>Resident, CG3</info>
+    <info>Resident, CG3.
+      M.Sc. (Agri) Horticulture Over 18 years of experience
+       in global organic and sustainable farming certification, 
+       with expertise in managing large-scale agriculture 
+       and horticulture projects from planning to execution.
+
+
+    </info>
     <image>images/Shailendra.jpg</image>
     <mapCoords x="66" y="41" />
   </person>
 
   <person>
     <name>Sonam Gupta</name>
-    <info>Resident, CB2</info>
+    <info>Resident, CB2.
+    B.Com, MBA Experienced in admission counselling
+     and community engagement, actively contributing to Capetown's daily life. 
+     Advocates for transparency, good governance, 
+     and a corruption-free, inclusive, and family-friendly society.
+
+    </info>
     <image>images/Sonam.jpg</image>
     <mapCoords x="62" y="14" />
   </person>
@@ -77,7 +145,13 @@
 
   <person>
     <name>Sukanta Bhattacharya</name>
-    <info>Resident, CS3</info>
+    <info>Resident, CS3.
+     Retired MNC professional and 
+     Ex-President of SCWA Capetown, advocating integrity, 
+     transparency, and NRO voting rights. 
+     Committed to fighting corruption and bringing positive change to Capetown Society.
+
+    </info>
     <image>images/Sukanta.jpg</image>
     <mapCoords x="82" y="5" />
   </person>
