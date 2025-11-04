@@ -22,3 +22,15 @@ Now, go to your web browser and manually type in this address: http://localhost:
 
 MAP2 
 1149 * 1354
+
+
+Github
+
+D:\per\capetown\Election\map>git add .
+
+D:\per\capetown\Election\map>git commit -m "Mobile"
+
+D:\per\capetown\Election\map>git pull origin main
+
+D:\per\capetown\Election\map>git push -u origin main
+
